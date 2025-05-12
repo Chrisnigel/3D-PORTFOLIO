@@ -1,5 +1,5 @@
 🎨 3D-PORTFOLIO
-By Chrisnigel
+By CHRISNIGEL
 A clean, modern, and interactive 3D-style portfolio website built with HTML and CSS. Designed to showcase your work, skills, and personal brand in a unique and visually engaging way.
 
 
